@@ -23,4 +23,4 @@ The dataset is organized into user-friendly CSV files, ensuring seamless integra
 
 Stay Updated:
 
-Benefit from regular updates to ensure you have the most current data at your fingertips. The database was last updated on January 20, 2025.
+Benefit from regular updates to ensure you have the most current data at your fingertips. The database was last updated on February 06, 2025.

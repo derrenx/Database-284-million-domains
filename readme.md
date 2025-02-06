@@ -1,4 +1,4 @@
-Access detailed insights on millions of websites, including technologies, server locations, and owner contacts:
+Access detailed insights on millions of websites, including technologies, server locations, and owner contacts.
 
 buy here : https://mangagus.gumroad.com/l/database-284-million-domains
 
